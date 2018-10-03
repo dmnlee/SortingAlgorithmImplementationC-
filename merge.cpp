@@ -1,7 +1,6 @@
 /*
  * Merge 3 Way Sort 
  * Daniel Drury
- * 
  */
 
 #include <iostream>
